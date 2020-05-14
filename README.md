@@ -6,3 +6,5 @@ Brandon Francisco Bartolomin Can carnet: 1990-18-21016
 Ejercicios Resueltos.
 parte 1
 parte 2
+
+Ejercicio Nuevo de pilas  y colas.
